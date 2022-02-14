@@ -1,0 +1,58 @@
+ margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+  outline: none;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+--prebreak--
+html { 
+	height: 101%; 
+}
+--prebreak--
+body { 
+	font-size: 62.5%; 
+	line-height: 1; 
+	font-family: Arial, Tahoma, sans-serif; 
+}
+--prebreak--
+article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section { 
+	display: block; 
+}
+--prebreak--
+ol, ul { 
+	list-style: none; 
+}
+--prebreak--
+blockquote, q { 
+	quotes: none; 
+}
+--prebreak--
+blockquote:before, blockquote:after, q:before, q:after { 
+	content: ''; 
+	content: none; 
+}
+--prebreak--
+strong { 
+	font-weight: bold; 
+} 
+--prebreak--
+table { 
+	border-collapse: collapse; 
+	border-spacing: 0; 
+}
+--prebreak--
+img { 
+	border: 0; 
+	max-width: 100%; 
+}
+--prebreak--
+p { 
+	font-size: 1.2em; 
+	line-height: 1.0em; 
+	color: #333; 
+}
